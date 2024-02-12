@@ -1,6 +1,6 @@
 # Mint-Documentation
 
-![](./assets/logo.svg)
+<img src="https://github.com/MintStation/Mint-Documentation/blob/master/assets/logo.svg" width="256" height="256" />
 
 Данный репозиторий является хранилищем документации, концептов и ресурсов связанных с разработкой сборки проекта Mint Station. Его можно рассматривать как некий "дизайн документ" предназначенный для координации разработчиков
 
